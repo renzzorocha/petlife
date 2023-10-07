@@ -1,9 +1,15 @@
-<h1 align="center"> 🐩 Clinica Veterinária PetLife
+# 🐩 Clinica Veterinária PetLife
 
-<h2 id=projeto> 😎 Projeto </h2>
+<p align="center">
+  <a href="#">
+    <img src="src\img\site-image.png" width="700" alt="Virus">
+  </a>
+</p>
+
+## 😎 Projeto </h2>
 Este site foi feito para praticar alguns conceitos de HTML, CSS E JS.<br>
 
-<h2 id=technologias> 💻 Tecnologias </h2>
+## 💻 Tecnologias </h2>
 
 As tecnologias que foram utilizadas são as seguintes: 
 
